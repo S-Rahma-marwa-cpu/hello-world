@@ -1,2 +1,2 @@
 # hello-world
-my first projuct
+i am new at programming and this my first projuct
